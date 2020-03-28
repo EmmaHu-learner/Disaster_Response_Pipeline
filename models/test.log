@@ -1,0 +1,805 @@
+related
+ Accuracy:  0.8171   % Precision: 0.8342   % Recall 0.9478 
+request
+ Accuracy:  0.9014   % Precision: 0.8058   % Recall 0.5228 
+offer
+ Accuracy:  0.9966   % Precision: 0.0000   % Recall 0.0000 
+aid_related
+ Accuracy:  0.7879   % Precision: 0.7531   % Recall 0.7008 
+medical_help
+ Accuracy:  0.9245   % Precision: 0.5926   % Recall 0.0788 
+medical_products
+ Accuracy:  0.9569   % Precision: 0.8529   % Recall 0.1160 
+search_and_rescue
+ Accuracy:  0.9737   % Precision: 0.8889   % Recall 0.1053 
+security
+ Accuracy:  0.9823   % Precision: 0.0000   % Recall 0.0000 
+military
+ Accuracy:  0.9693   % Precision: 0.7368   % Recall 0.0824 
+child_alone
+ Accuracy:  1.0000   % Precision: 0.0000   % Recall 0.0000 
+water
+ Accuracy:  0.9584   % Precision: 0.9381   % Recall 0.3344 
+food
+ Accuracy:  0.9506   % Precision: 0.8341   % Recall 0.6720 
+shelter
+ Accuracy:  0.9432   % Precision: 0.8128   % Recall 0.3882 
+clothing
+ Accuracy:  0.9859   % Precision: 0.8750   % Recall 0.0875 
+money
+ Accuracy:  0.9811   % Precision: 1.0000   % Recall 0.0198 
+missing_people
+ Accuracy:  0.9895   % Precision: 1.0000   % Recall 0.0351 
+refugees
+ Accuracy:  0.9723   % Precision: 0.6667   % Recall 0.0272 
+death
+ Accuracy:  0.9596   % Precision: 0.8636   % Recall 0.1557 
+other_aid
+ Accuracy:  0.8732   % Precision: 0.5778   % Recall 0.0387 
+infrastructure_related
+ Accuracy:  0.9399   % Precision: 0.0000   % Recall 0.0000 
+transport
+ Accuracy:  0.9575   % Precision: 0.7368   % Recall 0.0603 
+buildings
+ Accuracy:  0.9598   % Precision: 0.8039   % Recall 0.1694 
+electricity
+ Accuracy:  0.9815   % Precision: 0.5000   % Recall 0.0515 
+tools
+ Accuracy:  0.9941   % Precision: 0.0000   % Recall 0.0000 
+hospitals
+ Accuracy:  0.9908   % Precision: 0.0000   % Recall 0.0000 
+shops
+ Accuracy:  0.9947   % Precision: 0.0000   % Recall 0.0000 
+aid_centers
+ Accuracy:  0.9907   % Precision: 0.0000   % Recall 0.0000 
+other_infrastructure
+ Accuracy:  0.9577   % Precision: 0.0000   % Recall 0.0000 
+weather_related
+ Accuracy:  0.8888   % Precision: 0.8469   % Recall 0.7152 
+floods
+ Accuracy:  0.9582   % Precision: 0.8952   % Recall 0.4883 
+storm
+ Accuracy:  0.9455   % Precision: 0.8109   % Recall 0.5626 
+fire
+ Accuracy:  0.9895   % Precision: 1.0000   % Recall 0.0179 
+earthquake
+ Accuracy:  0.9723   % Precision: 0.8923   % Recall 0.7886 
+cold
+ Accuracy:  0.9819   % Precision: 0.7273   % Recall 0.1524 
+other_weather
+ Accuracy:  0.9485   % Precision: 0.5238   % Recall 0.0406 
+direct_report
+ Accuracy:  0.8598   % Precision: 0.7562   % Recall 0.3723 
+label ranking average precision: 0.7139082680797555related
+ Accuracy:  0.7593   % Precision: 0.7593   % Recall 1.0000 
+request
+ Accuracy:  0.8348   % Precision: 0.0000   % Recall 0.0000 
+offer
+ Accuracy:  0.9950   % Precision: 0.0000   % Recall 0.0000 
+aid_related
+ Accuracy:  0.5903   % Precision: 0.0000   % Recall 0.0000 
+medical_help
+ Accuracy:  0.9224   % Precision: 0.0000   % Recall 0.0000 
+medical_products
+ Accuracy:  0.9489   % Precision: 0.0000   % Recall 0.0000 
+search_and_rescue
+ Accuracy:  0.9725   % Precision: 0.0000   % Recall 0.0000 
+security
+ Accuracy:  0.9813   % Precision: 0.0000   % Recall 0.0000 
+military
+ Accuracy:  0.9662   % Precision: 0.0000   % Recall 0.0000 
+child_alone
+ Accuracy:  1.0000   % Precision: 0.0000   % Recall 0.0000 
+water
+ Accuracy:  0.9365   % Precision: 0.0000   % Recall 0.0000 
+food
+ Accuracy:  0.8898   % Precision: 0.0000   % Recall 0.0000 
+shelter
+ Accuracy:  0.9178   % Precision: 0.0000   % Recall 0.0000 
+clothing
+ Accuracy:  0.9836   % Precision: 0.0000   % Recall 0.0000 
+money
+ Accuracy:  0.9790   % Precision: 0.0000   % Recall 0.0000 
+missing_people
+ Accuracy:  0.9914   % Precision: 0.0000   % Recall 0.0000 
+refugees
+ Accuracy:  0.9655   % Precision: 0.0000   % Recall 0.0000 
+death
+ Accuracy:  0.9531   % Precision: 0.0000   % Recall 0.0000 
+other_aid
+ Accuracy:  0.8709   % Precision: 0.0000   % Recall 0.0000 
+infrastructure_related
+ Accuracy:  0.9399   % Precision: 0.0000   % Recall 0.0000 
+transport
+ Accuracy:  0.9559   % Precision: 0.0000   % Recall 0.0000 
+buildings
+ Accuracy:  0.9550   % Precision: 0.0000   % Recall 0.0000 
+electricity
+ Accuracy:  0.9807   % Precision: 0.0000   % Recall 0.0000 
+tools
+ Accuracy:  0.9943   % Precision: 0.0000   % Recall 0.0000 
+hospitals
+ Accuracy:  0.9897   % Precision: 0.0000   % Recall 0.0000 
+shops
+ Accuracy:  0.9964   % Precision: 0.0000   % Recall 0.0000 
+aid_centers
+ Accuracy:  0.9870   % Precision: 0.0000   % Recall 0.0000 
+other_infrastructure
+ Accuracy:  0.9611   % Precision: 0.0000   % Recall 0.0000 
+weather_related
+ Accuracy:  0.7263   % Precision: 0.0000   % Recall 0.0000 
+floods
+ Accuracy:  0.9172   % Precision: 0.0000   % Recall 0.0000 
+storm
+ Accuracy:  0.9090   % Precision: 0.0000   % Recall 0.0000 
+fire
+ Accuracy:  0.9893   % Precision: 0.0000   % Recall 0.0000 
+earthquake
+ Accuracy:  0.9088   % Precision: 0.0000   % Recall 0.0000 
+cold
+ Accuracy:  0.9792   % Precision: 0.0000   % Recall 0.0000 
+other_weather
+ Accuracy:  0.9485   % Precision: 0.0000   % Recall 0.0000 
+direct_report
+ Accuracy:  0.8146   % Precision: 0.0000   % Recall 0.0000 
+label ranking average precision: 0.6345903495640971                        precision    recall  f1-score   support
+
+               related       0.76      1.00      0.86      3981
+               request       0.00      0.00      0.00       866
+                 offer       0.00      0.00      0.00        26
+           aid_related       0.00      0.00      0.00      2148
+          medical_help       0.00      0.00      0.00       407
+      medical_products       0.00      0.00      0.00       268
+     search_and_rescue       0.00      0.00      0.00       144
+              security       0.00      0.00      0.00        98
+              military       0.00      0.00      0.00       177
+           child_alone       0.00      0.00      0.00         0
+                 water       0.00      0.00      0.00       333
+                  food       0.00      0.00      0.00       578
+               shelter       0.00      0.00      0.00       431
+              clothing       0.00      0.00      0.00        86
+                 money       0.00      0.00      0.00       110
+        missing_people       0.00      0.00      0.00        45
+              refugees       0.00      0.00      0.00       181
+                 death       0.00      0.00      0.00       246
+             other_aid       0.00      0.00      0.00       677
+infrastructure_related       0.00      0.00      0.00       315
+             transport       0.00      0.00      0.00       231
+             buildings       0.00      0.00      0.00       236
+           electricity       0.00      0.00      0.00       101
+                 tools       0.00      0.00      0.00        30
+             hospitals       0.00      0.00      0.00        54
+                 shops       0.00      0.00      0.00        19
+           aid_centers       0.00      0.00      0.00        68
+  other_infrastructure       0.00      0.00      0.00       204
+       weather_related       0.00      0.00      0.00      1435
+                floods       0.00      0.00      0.00       434
+                 storm       0.00      0.00      0.00       477
+                  fire       0.00      0.00      0.00        56
+            earthquake       0.00      0.00      0.00       478
+                  cold       0.00      0.00      0.00       109
+         other_weather       0.00      0.00      0.00       270
+         direct_report       0.00      0.00      0.00       972
+
+             micro avg       0.76      0.24      0.37     16291
+             macro avg       0.02      0.03      0.02     16291
+          weighted avg       0.19      0.24      0.21     16291
+           samples avg       0.76      0.33      0.40     16291
+related
+ Accuracy:  0.7725   % Precision: 0.7725   % Recall 1.0000 
+request
+ Accuracy:  0.8310   % Precision: 0.0000   % Recall 0.0000 
+offer
+ Accuracy:  0.9966   % Precision: 0.0000   % Recall 0.0000 
+aid_related
+ Accuracy:  0.5873   % Precision: 0.0000   % Recall 0.0000 
+medical_help
+ Accuracy:  0.9199   % Precision: 0.0000   % Recall 0.0000 
+medical_products
+ Accuracy:  0.9504   % Precision: 0.0000   % Recall 0.0000 
+search_and_rescue
+ Accuracy:  0.9723   % Precision: 0.0000   % Recall 0.0000 
+security
+ Accuracy:  0.9811   % Precision: 0.0000   % Recall 0.0000 
+military
+ Accuracy:  0.9680   % Precision: 0.0000   % Recall 0.0000 
+child_alone
+ Accuracy:  1.0000   % Precision: 0.0000   % Recall 0.0000 
+water
+ Accuracy:  0.9380   % Precision: 0.0000   % Recall 0.0000 
+food
+ Accuracy:  0.8926   % Precision: 0.0000   % Recall 0.0000 
+shelter
+ Accuracy:  0.9119   % Precision: 0.0000   % Recall 0.0000 
+clothing
+ Accuracy:  0.9840   % Precision: 0.0000   % Recall 0.0000 
+money
+ Accuracy:  0.9748   % Precision: 0.0000   % Recall 0.0000 
+missing_people
+ Accuracy:  0.9855   % Precision: 0.0000   % Recall 0.0000 
+refugees
+ Accuracy:  0.9641   % Precision: 0.0000   % Recall 0.0000 
+death
+ Accuracy:  0.9514   % Precision: 0.0000   % Recall 0.0000 
+other_aid
+ Accuracy:  0.8674   % Precision: 0.0000   % Recall 0.0000 
+infrastructure_related
+ Accuracy:  0.9372   % Precision: 0.0000   % Recall 0.0000 
+transport
+ Accuracy:  0.9575   % Precision: 0.0000   % Recall 0.0000 
+buildings
+ Accuracy:  0.9510   % Precision: 0.0000   % Recall 0.0000 
+electricity
+ Accuracy:  0.9805   % Precision: 0.0000   % Recall 0.0000 
+tools
+ Accuracy:  0.9916   % Precision: 0.0000   % Recall 0.0000 
+hospitals
+ Accuracy:  0.9893   % Precision: 0.0000   % Recall 0.0000 
+shops
+ Accuracy:  0.9947   % Precision: 0.0000   % Recall 0.0000 
+aid_centers
+ Accuracy:  0.9861   % Precision: 0.0000   % Recall 0.0000 
+other_infrastructure
+ Accuracy:  0.9599   % Precision: 0.0000   % Recall 0.0000 
+weather_related
+ Accuracy:  0.7130   % Precision: 0.0000   % Recall 0.0000 
+floods
+ Accuracy:  0.9155   % Precision: 0.0000   % Recall 0.0000 
+storm
+ Accuracy:  0.9033   % Precision: 0.0000   % Recall 0.0000 
+fire
+ Accuracy:  0.9880   % Precision: 0.0000   % Recall 0.0000 
+earthquake
+ Accuracy:  0.9010   % Precision: 0.0000   % Recall 0.0000 
+cold
+ Accuracy:  0.9794   % Precision: 0.0000   % Recall 0.0000 
+other_weather
+ Accuracy:  0.9477   % Precision: 0.0000   % Recall 0.0000 
+direct_report
+ Accuracy:  0.8167   % Precision: 0.0000   % Recall 0.0000 
+label ranking average precision: 0.6305746236550333                        precision    recall  f1-score   support
+
+               related       0.77      1.00      0.87      4050
+               request       0.00      0.00      0.00       886
+                 offer       0.00      0.00      0.00        18
+           aid_related       0.00      0.00      0.00      2164
+          medical_help       0.00      0.00      0.00       420
+      medical_products       0.00      0.00      0.00       260
+     search_and_rescue       0.00      0.00      0.00       145
+              security       0.00      0.00      0.00        99
+              military       0.00      0.00      0.00       168
+           child_alone       0.00      0.00      0.00         0
+                 water       0.00      0.00      0.00       325
+                  food       0.00      0.00      0.00       563
+               shelter       0.00      0.00      0.00       462
+              clothing       0.00      0.00      0.00        84
+                 money       0.00      0.00      0.00       132
+        missing_people       0.00      0.00      0.00        76
+              refugees       0.00      0.00      0.00       188
+                 death       0.00      0.00      0.00       255
+             other_aid       0.00      0.00      0.00       695
+infrastructure_related       0.00      0.00      0.00       329
+             transport       0.00      0.00      0.00       223
+             buildings       0.00      0.00      0.00       257
+           electricity       0.00      0.00      0.00       102
+                 tools       0.00      0.00      0.00        44
+             hospitals       0.00      0.00      0.00        56
+                 shops       0.00      0.00      0.00        28
+           aid_centers       0.00      0.00      0.00        73
+  other_infrastructure       0.00      0.00      0.00       210
+       weather_related       0.00      0.00      0.00      1505
+                floods       0.00      0.00      0.00       443
+                 storm       0.00      0.00      0.00       507
+                  fire       0.00      0.00      0.00        63
+            earthquake       0.00      0.00      0.00       519
+                  cold       0.00      0.00      0.00       108
+         other_weather       0.00      0.00      0.00       274
+         direct_report       0.00      0.00      0.00       961
+
+             micro avg       0.77      0.24      0.37     16692
+             macro avg       0.02      0.03      0.02     16692
+          weighted avg       0.19      0.24      0.21     16692
+           samples avg       0.77      0.34      0.41     16692
+related
+ Accuracy:  0.7676902536715621   % Precision: 0.7676902536715621   % Recall 1.0 
+request
+ Accuracy:  0.8294869349609002   % Precision: 0.0   % Recall 0.0 
+offer
+ Accuracy:  0.9956131985504482   % Precision: 0.0   % Recall 0.0 
+aid_related
+ Accuracy:  0.5872592027465192   % Precision: 0.0   % Recall 0.0 
+medical_help
+ Accuracy:  0.9143620064848369   % Precision: 0.0   % Recall 0.0 
+medical_products
+ Accuracy:  0.9506008010680908   % Precision: 0.0   % Recall 0.0 
+search_and_rescue
+ Accuracy:  0.9711996948312035   % Precision: 0.0   % Recall 0.0 
+security
+ Accuracy:  0.9816898722105665   % Precision: 0.0   % Recall 0.0 
+military
+ Accuracy:  0.9629982834255197   % Precision: 0.0   % Recall 0.0 
+child_alone
+ Accuracy:  1.0   % Precision: 0.0   % Recall 0.0 
+water
+ Accuracy:  0.9332443257676902   % Precision: 0.0   % Recall 0.0 
+food
+ Accuracy:  0.8916650772458516   % Precision: 0.0   % Recall 0.0 
+shelter
+ Accuracy:  0.9156971199694831   % Precision: 0.0   % Recall 0.0 
+clothing
+ Accuracy:  0.9874117871447644   % Precision: 0.0   % Recall 0.0 
+money
+ Accuracy:  0.9803547587259203   % Precision: 0.0   % Recall 0.0 
+missing_people
+ Accuracy:  0.9879839786381842   % Precision: 0.0   % Recall 0.0 
+refugees
+ Accuracy:  0.9706275033377837   % Precision: 0.0   % Recall 0.0 
+death
+ Accuracy:  0.954796872019836   % Precision: 0.0   % Recall 0.0 
+other_aid
+ Accuracy:  0.8687774175090597   % Precision: 0.0   % Recall 0.0 
+infrastructure_related
+ Accuracy:  0.9368682052260157   % Precision: 0.0   % Recall 0.0 
+transport
+ Accuracy:  0.9507915315658974   % Precision: 0.0   % Recall 0.0 
+buildings
+ Accuracy:  0.9525081060461568   % Precision: 0.0   % Recall 0.0 
+electricity
+ Accuracy:  0.9795918367346939   % Precision: 0.0   % Recall 0.0 
+tools
+ Accuracy:  0.9937058935723823   % Precision: 0.0   % Recall 0.0 
+hospitals
+ Accuracy:  0.987602517642571   % Precision: 0.0   % Recall 0.0 
+shops
+ Accuracy:  0.9952317375548351   % Precision: 0.0   % Recall 0.0 
+aid_centers
+ Accuracy:  0.9891283616250238   % Precision: 0.0   % Recall 0.0 
+other_infrastructure
+ Accuracy:  0.9582300209803548   % Precision: 0.0   % Recall 0.0 
+weather_related
+ Accuracy:  0.7188632462330726   % Precision: 0.0   % Recall 0.0 
+floods
+ Accuracy:  0.9156971199694831   % Precision: 0.0   % Recall 0.0 
+storm
+ Accuracy:  0.9082586305550258   % Precision: 0.0   % Recall 0.0 
+fire
+ Accuracy:  0.9897005531184436   % Precision: 0.0   % Recall 0.0 
+earthquake
+ Accuracy:  0.9057791340835399   % Precision: 0.0   % Recall 0.0 
+cold
+ Accuracy:  0.9811176807171467   % Precision: 0.0   % Recall 0.0 
+other_weather
+ Accuracy:  0.946213999618539   % Precision: 0.0   % Recall 0.0 
+direct_report
+ Accuracy:  0.8062178142284951   % Precision: 0.0   % Recall 0.0 
+label ranking average precision: 0.6314960920927155                        precision    recall  f1-score   support
+
+               related       0.77      1.00      0.87      4025
+               request       0.00      0.00      0.00       894
+                 offer       0.00      0.00      0.00        23
+           aid_related       0.00      0.00      0.00      2164
+          medical_help       0.00      0.00      0.00       449
+      medical_products       0.00      0.00      0.00       259
+     search_and_rescue       0.00      0.00      0.00       151
+              security       0.00      0.00      0.00        96
+              military       0.00      0.00      0.00       194
+           child_alone       0.00      0.00      0.00         0
+                 water       0.00      0.00      0.00       350
+                  food       0.00      0.00      0.00       568
+               shelter       0.00      0.00      0.00       442
+              clothing       0.00      0.00      0.00        66
+                 money       0.00      0.00      0.00       103
+        missing_people       0.00      0.00      0.00        63
+              refugees       0.00      0.00      0.00       154
+                 death       0.00      0.00      0.00       237
+             other_aid       0.00      0.00      0.00       688
+infrastructure_related       0.00      0.00      0.00       331
+             transport       0.00      0.00      0.00       258
+             buildings       0.00      0.00      0.00       249
+           electricity       0.00      0.00      0.00       107
+                 tools       0.00      0.00      0.00        33
+             hospitals       0.00      0.00      0.00        65
+                 shops       0.00      0.00      0.00        25
+           aid_centers       0.00      0.00      0.00        57
+  other_infrastructure       0.00      0.00      0.00       219
+       weather_related       0.00      0.00      0.00      1474
+                floods       0.00      0.00      0.00       442
+                 storm       0.00      0.00      0.00       481
+                  fire       0.00      0.00      0.00        54
+            earthquake       0.00      0.00      0.00       494
+                  cold       0.00      0.00      0.00        99
+         other_weather       0.00      0.00      0.00       282
+         direct_report       0.00      0.00      0.00      1016
+
+             micro avg       0.77      0.24      0.37     16612
+             macro avg       0.02      0.03      0.02     16612
+          weighted avg       0.19      0.24      0.21     16612
+           samples avg       0.77      0.33      0.41     16612
+related
+ Accuracy:  0.76502003   % Precision: 0.76502003   % Recall 1.00000000 
+request
+ Accuracy:  0.82185772   % Precision: 0.00000000   % Recall 0.00000000 
+offer
+ Accuracy:  0.99580393   % Precision: 0.00000000   % Recall 0.00000000 
+aid_related
+ Accuracy:  0.57142857   % Precision: 0.00000000   % Recall 0.00000000 
+medical_help
+ Accuracy:  0.92199123   % Precision: 0.00000000   % Recall 0.00000000 
+medical_products
+ Accuracy:  0.94907496   % Precision: 0.00000000   % Recall 0.00000000 
+search_and_rescue
+ Accuracy:  0.97196262   % Precision: 0.00000000   % Recall 0.00000000 
+security
+ Accuracy:  0.97921038   % Precision: 0.00000000   % Recall 0.00000000 
+military
+ Accuracy:  0.96318901   % Precision: 0.00000000   % Recall 0.00000000 
+child_alone
+ Accuracy:  1.00000000   % Precision: 0.00000000   % Recall 0.00000000 
+water
+ Accuracy:  0.93000191   % Precision: 0.00000000   % Recall 0.00000000 
+food
+ Accuracy:  0.88231928   % Precision: 0.00000000   % Recall 0.00000000 
+shelter
+ Accuracy:  0.90673279   % Precision: 0.00000000   % Recall 0.00000000 
+clothing
+ Accuracy:  0.98054549   % Precision: 0.00000000   % Recall 0.00000000 
+money
+ Accuracy:  0.97615869   % Precision: 0.00000000   % Recall 0.00000000 
+missing_people
+ Accuracy:  0.98970055   % Precision: 0.00000000   % Recall 0.00000000 
+refugees
+ Accuracy:  0.96681289   % Precision: 0.00000000   % Recall 0.00000000 
+death
+ Accuracy:  0.95861148   % Precision: 0.00000000   % Recall 0.00000000 
+other_aid
+ Accuracy:  0.86687011   % Precision: 0.00000000   % Recall 0.00000000 
+infrastructure_related
+ Accuracy:  0.93591455   % Precision: 0.00000000   % Recall 0.00000000 
+transport
+ Accuracy:  0.95536906   % Precision: 0.00000000   % Recall 0.00000000 
+buildings
+ Accuracy:  0.95060080   % Precision: 0.00000000   % Recall 0.00000000 
+electricity
+ Accuracy:  0.97901965   % Precision: 0.00000000   % Recall 0.00000000 
+tools
+ Accuracy:  0.99370589   % Precision: 0.00000000   % Recall 0.00000000 
+hospitals
+ Accuracy:  0.98779325   % Precision: 0.00000000   % Recall 0.00000000 
+shops
+ Accuracy:  0.99542247   % Precision: 0.00000000   % Recall 0.00000000 
+aid_centers
+ Accuracy:  0.98626740   % Precision: 0.00000000   % Recall 0.00000000 
+other_infrastructure
+ Accuracy:  0.95975586   % Precision: 0.00000000   % Recall 0.00000000 
+weather_related
+ Accuracy:  0.73259584   % Precision: 0.00000000   % Recall 0.00000000 
+floods
+ Accuracy:  0.92675949   % Precision: 0.00000000   % Recall 0.00000000 
+storm
+ Accuracy:  0.90864009   % Precision: 0.00000000   % Recall 0.00000000 
+fire
+ Accuracy:  0.98970055   % Precision: 0.00000000   % Recall 0.00000000 
+earthquake
+ Accuracy:  0.90921228   % Precision: 0.00000000   % Recall 0.00000000 
+cold
+ Accuracy:  0.98111768   % Precision: 0.00000000   % Recall 0.00000000 
+other_weather
+ Accuracy:  0.94545108   % Precision: 0.00000000   % Recall 0.00000000 
+direct_report
+ Accuracy:  0.80011444   % Precision: 0.00000000   % Recall 0.00000000 
+label ranking average precision: 0.6268136144218542                        precision    recall  f1-score   support
+
+               related       0.77      1.00      0.87      4011
+               request       0.00      0.00      0.00       934
+                 offer       0.00      0.00      0.00        22
+           aid_related       0.00      0.00      0.00      2247
+          medical_help       0.00      0.00      0.00       409
+      medical_products       0.00      0.00      0.00       267
+     search_and_rescue       0.00      0.00      0.00       147
+              security       0.00      0.00      0.00       109
+              military       0.00      0.00      0.00       193
+           child_alone       0.00      0.00      0.00         0
+                 water       0.00      0.00      0.00       367
+                  food       0.00      0.00      0.00       617
+               shelter       0.00      0.00      0.00       489
+              clothing       0.00      0.00      0.00       102
+                 money       0.00      0.00      0.00       125
+        missing_people       0.00      0.00      0.00        54
+              refugees       0.00      0.00      0.00       174
+                 death       0.00      0.00      0.00       217
+             other_aid       0.00      0.00      0.00       698
+infrastructure_related       0.00      0.00      0.00       336
+             transport       0.00      0.00      0.00       234
+             buildings       0.00      0.00      0.00       259
+           electricity       0.00      0.00      0.00       110
+                 tools       0.00      0.00      0.00        33
+             hospitals       0.00      0.00      0.00        64
+                 shops       0.00      0.00      0.00        24
+           aid_centers       0.00      0.00      0.00        72
+  other_infrastructure       0.00      0.00      0.00       211
+       weather_related       0.00      0.00      0.00      1402
+                floods       0.00      0.00      0.00       384
+                 storm       0.00      0.00      0.00       479
+                  fire       0.00      0.00      0.00        54
+            earthquake       0.00      0.00      0.00       476
+                  cold       0.00      0.00      0.00        99
+         other_weather       0.00      0.00      0.00       286
+         direct_report       0.00      0.00      0.00      1048
+
+             micro avg       0.77      0.24      0.36     16753
+             macro avg       0.02      0.03      0.02     16753
+          weighted avg       0.18      0.24      0.21     16753
+           samples avg       0.77      0.32      0.40     16753
+related
+ Accuracy:  0.7713   % Precision: 0.7713   % Recall 1.0000   % support 0.8709 
+request
+ Accuracy:  0.8325   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+offer
+ Accuracy:  0.9960   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+aid_related
+ Accuracy:  0.5863   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+medical_help
+ Accuracy:  0.9201   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+medical_products
+ Accuracy:  0.9516   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+search_and_rescue
+ Accuracy:  0.9716   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+security
+ Accuracy:  0.9809   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+military
+ Accuracy:  0.9657   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+child_alone
+ Accuracy:  1.0000   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+water
+ Accuracy:  0.9359   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+food
+ Accuracy:  0.8837   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+shelter
+ Accuracy:  0.9077   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+clothing
+ Accuracy:  0.9851   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+money
+ Accuracy:  0.9800   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+missing_people
+ Accuracy:  0.9899   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+refugees
+ Accuracy:  0.9647   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+death
+ Accuracy:  0.9567   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+other_aid
+ Accuracy:  0.8758   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+infrastructure_related
+ Accuracy:  0.9329   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+transport
+ Accuracy:  0.9588   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+buildings
+ Accuracy:  0.9481   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+electricity
+ Accuracy:  0.9804   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+tools
+ Accuracy:  0.9935   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+hospitals
+ Accuracy:  0.9889   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+shops
+ Accuracy:  0.9956   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+aid_centers
+ Accuracy:  0.9882   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+other_infrastructure
+ Accuracy:  0.9544   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+weather_related
+ Accuracy:  0.7233   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+floods
+ Accuracy:  0.9207   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+storm
+ Accuracy:  0.9033   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+fire
+ Accuracy:  0.9912   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+earthquake
+ Accuracy:  0.9069   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+cold
+ Accuracy:  0.9821   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+other_weather
+ Accuracy:  0.9460   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+direct_report
+ Accuracy:  0.8070   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+label ranking average precision: 0.6305902132638903                        precision    recall  f1-score   support
+
+               related       0.77      1.00      0.87      4044
+               request       0.00      0.00      0.00       878
+                 offer       0.00      0.00      0.00        21
+           aid_related       0.00      0.00      0.00      2169
+          medical_help       0.00      0.00      0.00       419
+      medical_products       0.00      0.00      0.00       254
+     search_and_rescue       0.00      0.00      0.00       149
+              security       0.00      0.00      0.00       100
+              military       0.00      0.00      0.00       180
+           child_alone       0.00      0.00      0.00         0
+                 water       0.00      0.00      0.00       336
+                  food       0.00      0.00      0.00       610
+               shelter       0.00      0.00      0.00       484
+              clothing       0.00      0.00      0.00        78
+                 money       0.00      0.00      0.00       105
+        missing_people       0.00      0.00      0.00        53
+              refugees       0.00      0.00      0.00       185
+                 death       0.00      0.00      0.00       227
+             other_aid       0.00      0.00      0.00       651
+infrastructure_related       0.00      0.00      0.00       352
+             transport       0.00      0.00      0.00       216
+             buildings       0.00      0.00      0.00       272
+           electricity       0.00      0.00      0.00       103
+                 tools       0.00      0.00      0.00        34
+             hospitals       0.00      0.00      0.00        58
+                 shops       0.00      0.00      0.00        23
+           aid_centers       0.00      0.00      0.00        62
+  other_infrastructure       0.00      0.00      0.00       239
+       weather_related       0.00      0.00      0.00      1451
+                floods       0.00      0.00      0.00       416
+                 storm       0.00      0.00      0.00       507
+                  fire       0.00      0.00      0.00        46
+            earthquake       0.00      0.00      0.00       488
+                  cold       0.00      0.00      0.00        94
+         other_weather       0.00      0.00      0.00       283
+         direct_report       0.00      0.00      0.00      1012
+
+             micro avg       0.77      0.24      0.37     16599
+             macro avg       0.02      0.03      0.02     16599
+          weighted avg       0.19      0.24      0.21     16599
+           samples avg       0.77      0.34      0.41     16599
+related
+ Accuracy:  0.7685   % Precision: 0.7685   % Recall 1.0000   % support 0.8691 
+request
+ Accuracy:  0.8268   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+offer
+ Accuracy:  0.9956   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+aid_related
+ Accuracy:  0.5821   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+medical_help
+ Accuracy:  0.9216   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+medical_products
+ Accuracy:  0.9502   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+search_and_rescue
+ Accuracy:  0.9735   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+security
+ Accuracy:  0.9828   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+military
+ Accuracy:  0.9683   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+child_alone
+ Accuracy:  1.0000   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+water
+ Accuracy:  0.9372   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+food
+ Accuracy:  0.8867   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+shelter
+ Accuracy:  0.9088   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+clothing
+ Accuracy:  0.9832   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+money
+ Accuracy:  0.9748   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+missing_people
+ Accuracy:  0.9897   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+refugees
+ Accuracy:  0.9599   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+death
+ Accuracy:  0.9542   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+other_aid
+ Accuracy:  0.8695   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+infrastructure_related
+ Accuracy:  0.9321   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+transport
+ Accuracy:  0.9569   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+buildings
+ Accuracy:  0.9510   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+electricity
+ Accuracy:  0.9826   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+tools
+ Accuracy:  0.9941   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+hospitals
+ Accuracy:  0.9880   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+shops
+ Accuracy:  0.9960   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+aid_centers
+ Accuracy:  0.9878   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+other_infrastructure
+ Accuracy:  0.9531   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+weather_related
+ Accuracy:  0.7221   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+floods
+ Accuracy:  0.9163   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+storm
+ Accuracy:  0.9033   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+fire
+ Accuracy:  0.9889   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+earthquake
+ Accuracy:  0.9088   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+cold
+ Accuracy:  0.9781   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+other_weather
+ Accuracy:  0.9451   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+direct_report
+ Accuracy:  0.8074   % Precision: 0.0000   % Recall 0.0000   % support 0.0000 
+label ranking average precision: 0.6309475458826985                        precision    recall  f1-score   support
+
+               related       0.77      1.00      0.87      4029
+               request       0.00      0.00      0.00       908
+                 offer       0.00      0.00      0.00        23
+           aid_related       0.00      0.00      0.00      2191
+          medical_help       0.00      0.00      0.00       411
+      medical_products       0.00      0.00      0.00       261
+     search_and_rescue       0.00      0.00      0.00       139
+              security       0.00      0.00      0.00        90
+              military       0.00      0.00      0.00       166
+           child_alone       0.00      0.00      0.00         0
+                 water       0.00      0.00      0.00       329
+                  food       0.00      0.00      0.00       594
+               shelter       0.00      0.00      0.00       478
+              clothing       0.00      0.00      0.00        88
+                 money       0.00      0.00      0.00       132
+        missing_people       0.00      0.00      0.00        54
+              refugees       0.00      0.00      0.00       210
+                 death       0.00      0.00      0.00       240
+             other_aid       0.00      0.00      0.00       684
+infrastructure_related       0.00      0.00      0.00       356
+             transport       0.00      0.00      0.00       226
+             buildings       0.00      0.00      0.00       257
+           electricity       0.00      0.00      0.00        91
+                 tools       0.00      0.00      0.00        31
+             hospitals       0.00      0.00      0.00        63
+                 shops       0.00      0.00      0.00        21
+           aid_centers       0.00      0.00      0.00        64
+  other_infrastructure       0.00      0.00      0.00       246
+       weather_related       0.00      0.00      0.00      1457
+                floods       0.00      0.00      0.00       439
+                 storm       0.00      0.00      0.00       507
+                  fire       0.00      0.00      0.00        58
+            earthquake       0.00      0.00      0.00       478
+                  cold       0.00      0.00      0.00       115
+         other_weather       0.00      0.00      0.00       288
+         direct_report       0.00      0.00      0.00      1010
+
+             micro avg       0.77      0.24      0.37     16734
+             macro avg       0.02      0.03      0.02     16734
+          weighted avg       0.19      0.24      0.21     16734
+           samples avg       0.77      0.33      0.41     16734
+                        precision    recall  f1-score   support
+
+               related       0.81      0.97      0.89      4003
+               request       0.89      0.42      0.57       890
+                 offer       0.00      0.00      0.00        25
+           aid_related       0.79      0.62      0.69      2144
+          medical_help       0.50      0.03      0.05       408
+      medical_products       0.64      0.05      0.10       267
+     search_and_rescue       0.83      0.04      0.07       130
+              security       1.00      0.01      0.02        97
+              military       0.50      0.02      0.03       188
+           child_alone       0.00      0.00      0.00         0
+                 water       0.89      0.22      0.35       330
+                  food       0.86      0.50      0.63       585
+               shelter       0.89      0.19      0.31       478
+              clothing       0.57      0.05      0.09        80
+                 money       0.80      0.04      0.07       106
+        missing_people       0.00      0.00      0.00        62
+              refugees       0.50      0.01      0.01       175
+                 death       0.93      0.10      0.19       251
+             other_aid       0.82      0.01      0.03       665
+infrastructure_related       0.25      0.00      0.01       336
+             transport       0.76      0.11      0.19       234
+             buildings       0.93      0.10      0.19       243
+           electricity       0.50      0.02      0.04       100
+                 tools       0.00      0.00      0.00        22
+             hospitals       0.00      0.00      0.00        55
+                 shops       0.00      0.00      0.00        31
+           aid_centers       0.00      0.00      0.00        60
+  other_infrastructure       0.00      0.00      0.00       214
+       weather_related       0.88      0.61      0.72      1460
+                floods       0.96      0.40      0.57       426
+                 storm       0.78      0.36      0.49       480
+                  fire       0.00      0.00      0.00        56
+            earthquake       0.90      0.74      0.82       498
+                  cold       0.62      0.05      0.09       106
+         other_weather       0.83      0.02      0.04       263
+         direct_report       0.86      0.34      0.48      1015
+
+             micro avg       0.83      0.49      0.62     16483
+             macro avg       0.57      0.17      0.21     16483
+          weighted avg       0.78      0.49      0.54     16483
+           samples avg       0.70      0.47      0.52     16483
