@@ -40,49 +40,49 @@ def load_data(database_filepath):
 
 
 """ My tokenize function """
-# def get_wordnet_pos(tag):
-#     if tag.startswith('J'):
-#         return wordnet.ADJ
-#     elif tag.startswith('N'):
-#         return wordnet.NOUN
-#     elif tag.startswith('R'):
-#         return wordnet.VERB
-#     elif tag.startswith('V'):
-#         return wordnet.ADV
-#     else:
-#         return None
+def get_wordnet_pos(tag):
+    if tag.startswith('J'):
+        return wordnet.ADJ
+    elif tag.startswith('N'):
+        return wordnet.NOUN
+    elif tag.startswith('R'):
+        return wordnet.VERB
+    elif tag.startswith('V'):
+        return wordnet.ADV
+    else:
+        return None
 
-# def tokenize(text):
-#     # normalize text: Remove punctuation
-#     text=re.sub(r"[^a-zA-Z0-9]", " ", text)
-#
-#     # tokenize and remove stop words
-#     words=word_tokenize(text)
-#     tokens=[w for w in words if w not in stopwords.words('english')]
-#
-#     # lemmatization depending on pos_tag
-#     lemmatizer=WordNetLemmatizer()
-#
-#     clean_tokens=[]
-#     for (tok,tag) in pos_tag(tokens):
-#         # get pos_tag
-#         wordnet_pos=get_wordnet_pos(tag) or wordnet.NOUN
-#         # lemmatization
-#         clean_tokens.append(lemmatizer.lemmatize(tok, pos=wordnet_pos).lower().strip())
-#
-#     return clean_tokens
-
-"""  tokenize borrowed from .run.py  """
 def tokenize(text):
-    tokens = word_tokenize(text)
-    lemmatizer = WordNetLemmatizer()
+    # normalize text: Remove punctuation
+    text=re.sub(r"[^a-zA-Z0-9]", " ", text)
 
-    clean_tokens = []
-    for tok in tokens:
-        clean_tok = lemmatizer.lemmatize(tok).lower().strip()
-        clean_tokens.append(clean_tok)
+    # tokenize and remove stop words
+    words=word_tokenize(text)
+    tokens=[w for w in words if w not in stopwords.words('english')]
+
+    # lemmatization depending on pos_tag
+    lemmatizer=WordNetLemmatizer()
+
+    clean_tokens=[]
+    for (tok,tag) in pos_tag(tokens):
+        # get pos_tag
+        wordnet_pos=get_wordnet_pos(tag) or wordnet.NOUN
+        # lemmatization
+        clean_tokens.append(lemmatizer.lemmatize(tok, pos=wordnet_pos).lower().strip())
 
     return clean_tokens
+
+# """  tokenize borrowed from .run.py  """
+# def tokenize(text):
+#     tokens = word_tokenize(text)
+#     lemmatizer = WordNetLemmatizer()
+#
+#     clean_tokens = []
+#     for tok in tokens:
+#         clean_tok = lemmatizer.lemmatize(tok).lower().strip()
+#         clean_tokens.append(clean_tok)
+#
+#     return clean_tokens
 
 
 def build_model():
@@ -152,7 +152,7 @@ def main():
 
     # FOR DEBUG
     if True:
-        model_filepath = 'DisasterResponseModel.pkl'
+        model_filepath = 'classifier.pkl'
         database_filepath = '../data/DisasterResponse.db'
 
         print('Loading data...\n    DATABASE: {}'.format(database_filepath))
