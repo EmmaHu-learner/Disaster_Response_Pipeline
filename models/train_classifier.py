@@ -87,9 +87,10 @@ def tokenize(text):
 
 def build_model():
 
-    """  RandomForest GridSearch """
-    ## planned to run, but my mac crashes whenever running, so please refer to
-    ## Jupyter notebook for complixity studies instead.
+    """ Note: """
+    """ planned to run, but my mac crashes whenever running, so please refer to
+    Jupyter notebook for complixity studies instead. """
+
     # pipeline = Pipeline([
     #     ('vect',TfidfVectorizer(tokenizer=tokenize)),
     #     ('clf',MultiOutputClassifier(RandomForestClassifier(n_estimators=100,random_state=20)))
@@ -147,13 +148,13 @@ def save_model(model, model_filepath):
 
 def main():
 
-    # if len(sys.argv) == 3:
-    #     database_filepath, model_filepath = sys.argv[1:]
+    if len(sys.argv) == 3:
+        database_filepath, model_filepath = sys.argv[1:]
 
     # FOR DEBUG
-    if True:
-        model_filepath = 'classifier.pkl'
-        database_filepath = '../data/DisasterResponse.db'
+    # if True:
+    #     model_filepath = 'classifier.pkl'
+    #     database_filepath = '../data/DisasterResponse.db'
 
         print('Loading data...\n    DATABASE: {}'.format(database_filepath))
         X, Y, category_names = load_data(database_filepath)
